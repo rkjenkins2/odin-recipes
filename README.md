@@ -1,0 +1,1 @@
+This is an HTML project in the Fundamentals course of The Odin Project. Completed in September 2021. The goal is to build a simple HTML-only recipe site.
